@@ -12,6 +12,6 @@ i am currently in my third year of learning programming at Epitech Nantes
 - Cybersecurity
 
 ### Quick Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Octopus773&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=impe&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=roromainlcs&color=blue)
