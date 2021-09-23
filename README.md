@@ -8,10 +8,9 @@ i am currently in my third year of learning programming at Epitech Nantes
 
 ### What i am interested in
 - Crypto-currency/Blockchain
-- Machine Learning
+- Artificial intellignece
 - Cybersecurity
 
 ### Quick Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roromainlcs&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 ![](https://komarev.com/ghpvc/?username=roromainlcs&color=blue)
