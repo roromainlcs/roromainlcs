@@ -7,8 +7,8 @@ i am currently in my third year of learning programming at Epitech Nantes
 - Javascript
 
 ### What i am interested in
-- Crypto-currency/Blockchain
+- web developement
+- app developement
 - Artificial intelligence
-- 3d developpement
 
 ![](https://komarev.com/ghpvc/?username=roromainlcs&color=blue)
