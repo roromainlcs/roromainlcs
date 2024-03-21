@@ -1,5 +1,5 @@
 Hi, I am Romain LUCAS and welcome to my github repository.
-I am a 20 years old passionate developper.
+I am a 23 years old passionate developper.
 i am currently in my third year of learning programming at Epitech Nantes
 ### main techno
 - C/C++
