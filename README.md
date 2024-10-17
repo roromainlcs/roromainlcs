@@ -1,6 +1,6 @@
 Hi, I am Romain LUCAS and welcome to my github repository.
 I am a 23 years old passionate developper.
-i am currently in my third year of learning programming at Epitech Nantes
+i have just finished my master in programming at Epitech !
 ### main techno
 - C/C++
 - Python
