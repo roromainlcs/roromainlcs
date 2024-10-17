@@ -5,10 +5,13 @@ i am currently in my third year of learning programming at Epitech Nantes
 - C/C++
 - Python
 - Javascript
+- Typescript
+- docker
 
 ### What i am interested in
-- web developement
-- app developement
-- Artificial intelligence
+- full stack web development
+- web in general
+- Cyber-security
+- functional programming
 
-![](https://komarev.com/ghpvc/?username=roromainlcs&color=blue)
+![](https://komarev.com/ghpvc/?username=roromainlcs&color=grey)
