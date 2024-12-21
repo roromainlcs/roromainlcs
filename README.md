@@ -10,7 +10,8 @@ i have just finished my master in programming at Epitech !
 
 ### What i am interested in
 - full stack web development
-- web in general
+- web
+- crypto
 - Cyber-security
 - functional programming
 
