@@ -11,7 +11,7 @@ i have just finished my master in programming at Epitech !
 ### What i am interested in
 - full stack web development
 - web
-- bockchain
+- blockchain
 - Cyber-security
 - functional programming
 
