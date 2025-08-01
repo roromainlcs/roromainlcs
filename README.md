@@ -3,6 +3,7 @@ I am a 24 years old passionate developper.
 i have just finished my master in programming at Epitech !
 ### main techno
 - C/C++
+- golang
 - Python
 - Javascript
 - Typescript
